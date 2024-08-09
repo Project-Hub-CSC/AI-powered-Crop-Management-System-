@@ -1,0 +1,23 @@
+Category,Variable Name,Code_ABB,Data Type
+Treatment,A,Treatment,object
+,B,,
+,C,,
+,D,,
+,E,,
+POD,Pod length at 65 days after planting (cm),POD_LENGTH_65,float64
+,Number of pod per plant at 60 days after planting,POD_PLANT_60,float64
+,Pod load scoring,POD_SCORE,int64
+Observations/Infestations,Maruca vitrata % of flower infestation and damage,MVF_INF,int64
+,Megalurothrips sjostedti observation 1st observation,MSJ_OBS_1ST,float64
+,Megalurothrips sjostedti observation 2nd observation,MSJ_OBS_2ND,float64
+,Megalurothrips sjostedti observation 3rd observation,MSJ_OBS_3RD,float64
+,Megalurothrips sjostedti observation 4th observation,MSJ_OBS_4TH,float64
+,Megalurothrips sjostedti observation 12th observation,MSJ_OBS_12TH,float64
+,Aphis craccivora infestation observation 1st,ACINF_OBS_1ST,float64
+,Aphis craccivora infestation 2nd observation,ACINF_OBS_2ND,float64
+,Aphis craccivora infestation 3rd observation,ACINF_OBS_3RD,float64
+,Aphis craccivora infestation 4th observation,ACINF_OBS_4TH,float64
+,Aphis craccivora infestation 5th observation,ACINF_OBS_5TH,float64
+,Aphis craccivora infestation 6th observation,ACINF_OBS_6TH,float64
+Grain Yield,Weight of grain yield per hill of 20 plants (g),GY_PER_20,float64
+,Net plot grain weight (g),NP_Grain (g),int64
