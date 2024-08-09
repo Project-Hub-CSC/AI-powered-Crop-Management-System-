@@ -1,7 +1,6 @@
 # AI-powered Integrated Crop Management System
 
-![AI-powered Integrated Crop Management System](precision_farm.png)
-<img src="precision_farm.png" alt="AI-powered Integrated Crop Management System" width="50" height="50">
+<img src="precision_farm.png" alt="AI-powered Integrated Crop Management System" width="100" height="100">
 ## Project Overview
 The AI-powered Integrated Crop Management System (ICMS) is a cutting-edge platform designed to revolutionize agricultural practices by integrating artificial intelligence and data analytics into crop management. Our system aims to optimize soil health, nutrient management, and overall farm productivity, leading to more sustainable and efficient farming practices.
 
